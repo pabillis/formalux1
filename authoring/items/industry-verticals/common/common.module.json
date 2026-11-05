@@ -102,7 +102,7 @@
           {
             "path": "/Settings/Site Grouping",
             "scope": "ItemAndDescendants",
-            "allowedPushOperations": "CreateOnly"
+            "allowedPushOperations": "CreateAndUpdate"
           },
           {
             "path": "/Settings",
